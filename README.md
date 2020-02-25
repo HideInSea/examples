@@ -1,3 +1,11 @@
+<!--
+ * @Description: 
+ * @Author: BMIU
+ * @Date: 2020-02-25 10:51:18
+ * @LastEditors: BMIU
+ * @LastEditTime: 2020-02-25 10:53:28
+ -->
+
 # Cocos Creator 开发范例
 
 本项目同时面向 Cocos Creator 引擎开发人员和最终用户，目的是建立一套贯穿开发、测试、学习使用的完整的功能范例。
@@ -77,6 +85,7 @@ assets
 ### 音效相关 Audio
 
 - [Simple Audio](assets/resources/readme/SimpleAudio.md)
+
 
 
 
